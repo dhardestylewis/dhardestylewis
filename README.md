@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I design and implement intelligent decision support systems to support computational science, disaster mitigation and response, and resiliency research projects.
 -->
 
-- 🔭 I’m currently working on ... containerization of various common scientific software models, source-to-visualization pipelines for some of these models
+- 🔭 I’m currently working on ... containerization of various common scientific software models, source-data-to-visualization pipelines for some of these models
 - 🌱 I’m currently learning ... [PostgreSQL](https://github.com/postgres/postgres), [Plotly Dash](https://github.com/plotly/dash), [OSMnx](https://github.com/gboeing/osmnx)
 - 👯 I’m looking to collaborate on ... scalable equity-oriented models of land use decisions, AI/statistical applications at scale of terrain models or vectorized models
 - 💬 Ask me about ... [GDAL](https://github.com/OSGeo/gdal), [Geopandas](https://github.com/geopandas/geopandas), [RasterIO](https://github.com/mapbox/rasterio)
