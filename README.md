@@ -28,59 +28,61 @@ I design and implement intelligent decision support systems to support computati
 
 Data Scientist and Researcher
 
-Developing interpretable machine learning systems and scalable computational infrastructure.
+I build interpretable machine learning systems and scalable geospatial infrastructure for high-stakes decision support.
 
-I am a researcher at [Columbia University](https://www.columbia.edu/) focused on explainable AI and distributionally robust machine learning for high-stakes financial applications. Previously, I spent 5+ years at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu/) scaling climate and flood models on world-leading supercomputers and leading work for the [$40M Texas Disaster Information System (TDIS)](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system).
+I am a Research Assistant at [Columbia University](https://www.columbia.edu/) working with [Ali Hirsa](https://www.engineering.columbia.edu/faculty-staff/directory/ali-hirsa) on explainable and distributionally robust ML for financial forecasting. Previously, I spent 5+ years at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu/) scaling climate and flood models and contributing to the [Texas Disaster Information System (TDIS)](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system). :contentReference[oaicite:4]{index=4}
 
-I founded [Summit Geospatial](https://summitgeospatial.com/) to deliver high-quality terrain data in Texas, and I am building [PoliBOM](https://www.polibom.com/) for tariff intelligence.
+I founded [Summit Geospatial](https://summitgeospatial.com/) (terrain data for Texas) and co-founded [PoliBOM](https://polibom.com/) (tariff intelligence).
+
+Links: [dlewis.ai](https://dlewis.ai) | [LinkedIn](https://www.linkedin.com/in/dhardestylewis/) | [Email](mailto:danielhardestylewis@gmail.com)
 
 ## Focus areas
 
-- Interpretable and distributionally robust ML for financial forecasting
-- End-to-end geospatial and flood modeling pipelines (source data to web delivery)
-- High-performance computing for climate, terrain, and hydrology workloads
+- Interpretable and distributionally robust ML for forecasting and decision support
+- End-to-end geospatial pipelines (source data to web delivery)
+- HPC workflows for climate, terrain, and hydrology workloads
 
-## Experience
+## Selected work
 
-- 2024 - Present: Research Assistant, [Columbia University](https://www.columbia.edu/)
-  - Working with [Ali Hirsa](https://www.engineering.columbia.edu/faculty-staff/directory/ali-hirsa) on latent factor models and SHAP-style explainability for financial deep learning
-- 2023 - Present: Founder, [Summit Geospatial](https://summitgeospatial.com/)
-  - Seamless elevation data products and scalable terrain workflows for Texas
-- 2024 - Present: Co-founder, [PoliBOM](https://www.polibom.com/)
-  - Tariff intelligence platform and decision tooling
-- 2021 - 2023: Senior Data Scientist and Technical Lead, [Texas Advanced Computing Center](https://tacc.utexas.edu/)
-  - Led work supporting the [Texas Disaster Information System](https://idrt.tamug.edu/tdis/) and large-scale flood and climate modeling
-- 2018 - 2021: Data Scientist and Research Engineer, [Texas Advanced Computing Center](https://tacc.utexas.edu/)
-  - Work spanning applied deep learning, model integration, and decision-support tooling
+- Properlytic: home price forecasting and interactive mapping
+- Texas Disaster Information System (TDIS): statewide disaster data platform ([GLO overview](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system), [IDRT page](https://idrt.tamug.edu/tdis/)) :contentReference[oaicite:5]{index=5}
+- MINT Platform (DARPA World Modelers): model integration and intelligent interfaces
 
-## Technical stack
+<details>
+<summary><b>Experience</b></summary>
 
-- Languages: Python, SQL, Bash, TypeScript, C++, Fortran, PL/pgSQL
-- Geospatial: [GDAL](https://gdal.org/), [GeoPandas](https://geopandas.org/), [Rasterio](https://rasterio.readthedocs.io/), PostGIS
-- Databases: [PostgreSQL](https://www.postgresql.org/), [PostGIS](https://postgis.net/), [Supabase](https://supabase.com/)
-- ML: [PyTorch](https://pytorch.org/), SHAP, variational inference
-- Visualization: [Plotly Dash](https://dash.plotly.com/), web-first mapping workflows
-- HPC and infrastructure: CUDA, Docker, large-scale batch workflows
+- 2024 - Present: Research Assistant, Columbia University (Financial Engineering)
+- 2023 - Present: Founder, Summit Geospatial
+- 2024 - Present: Co-founder, PoliBOM
+- 2021 - 2023: Senior Data Scientist and Technical Lead, Texas Advanced Computing Center
+- 2018 - 2021: Data Scientist and Research Engineer, Texas Advanced Computing Center
+- 2018 - 2020: Co-instructor, University of Texas at Austin
 
-## Selected projects
+</details>
 
-- [Texas Disaster Information System (TDIS)](https://portal.cloud.tdis.io/)
-  - Centralized data platform for disaster preparedness, response, and recovery in Texas
-- Real-Time Inundation Mapping
-  - High-resolution flood inundation mapping from operational hydrology outputs
-- MINT Platform (DARPA World Modelers)
-  - Model integration and intelligent interfaces for climate and socioeconomic workflows
-- [terrain_aggregator](https://github.com/dhardestylewis/terrain_aggregator)
-  - Workflow to aggregate terrain imagery at scale into a seamless dataset
+<details>
+<summary><b>Technical stack</b></summary>
 
-## Publications
+Languages: Python, SQL, Bash, TypeScript, C++, Fortran, PL/pgSQL  
+ML: PyTorch, SHAP, variational inference  
+Geospatial: GDAL, GeoPandas, Rasterio, PostGIS  
+Infra: CUDA, Docker, HPC batch workflows  
+Visualization: Plotly Dash, web-first mapping
 
-- Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making
-  - ACM Transactions on Interactive Intelligent Systems (TIST), 2021
-- An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models
-  - ACM IUI, 2019
-- A Semantic Model Catalog to Support Comparison and Reuse
-  - iEMSs Congress, 2018
+</details>
+
+<details>
+<summary><b>Publications (selected)</b></summary>
+
+- Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making  
+  [ACM TIST (entry)](https://knowledgecaptureanddiscovery.github.io/publication/gil-etal-tiis-2021/) :contentReference[oaicite:6]{index=6}
+- An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models  
+  [ACM IUI (DOI)](https://dl.acm.org/doi/abs/10.1145/3308557.3308711) :contentReference[oaicite:7]{index=7}
+- A Semantic Model Catalog to Support Comparison and Reuse  
+  [iEMSs paper (PDF)](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4347&context=iemssconference) :contentReference[oaicite:8]{index=8}
+
+</details>
+
 
 ## Contact
 
