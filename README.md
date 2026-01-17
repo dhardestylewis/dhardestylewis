@@ -73,7 +73,7 @@ I founded [Summit Geospatial](https://summitgeospatial.com/) to deliver high-qua
 - [terrain_aggregator](https://github.com/dhardestylewis/terrain_aggregator)
   - Workflow to aggregate terrain imagery at scale into a seamless dataset
 
-## Publications (selected)
+## Publications
 
 - Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making
   - ACM Transactions on Interactive Intelligent Systems (TIST), 2021
