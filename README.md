@@ -87,11 +87,3 @@ GitHub: https://github.com/dhardestylewis
 LinkedIn: https://www.linkedin.com/in/dhardestylewis/  
 Location: New York, NY
 
-
-## Contact
-
-- Website: https://dlewis.ai
-- Email: danielhardestylewis@gmail.com
-- GitHub: https://github.com/dhardestylewis
-- LinkedIn: https://www.linkedin.com/in/dhardestylewis/
-- Location: New York, NY
