@@ -30,7 +30,7 @@ Data Scientist and Researcher
 
 I build interpretable machine learning systems and scalable geospatial infrastructure for high-stakes decision support.
 
-I am a Research Assistant at [Columbia University](https://www.columbia.edu/) working with [Ali Hirsa](https://www.engineering.columbia.edu/faculty-staff/directory/ali-hirsa) on explainable and distributionally robust ML for financial forecasting. Previously, I spent 5+ years at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu/) scaling climate and flood models and contributing to the [Texas Disaster Information System (TDIS)](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system). :contentReference[oaicite:4]{index=4}
+I am a Research Assistant at [Columbia University](https://www.columbia.edu/) working with [Ali Hirsa](https://www.engineering.columbia.edu/faculty-staff/directory/ali-hirsa) on explainable and distributionally robust ML for financial forecasting. Previously, I spent 5+ years at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu/) scaling climate and flood models, including work supporting the $40M [Texas Disaster Information System (TDIS)](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system).
 
 I founded [Summit Geospatial](https://summitgeospatial.com/) (terrain data for Texas) and co-founded [PoliBOM](https://polibom.com/) (tariff intelligence).
 
@@ -45,11 +45,18 @@ Links: [dlewis.ai](https://dlewis.ai) | [LinkedIn](https://www.linkedin.com/in/d
 ## Selected work
 
 - Properlytic: home price forecasting and interactive mapping
-- Texas Disaster Information System (TDIS): statewide disaster data platform ([GLO overview](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system), [IDRT page](https://idrt.tamug.edu/tdis/)) :contentReference[oaicite:5]{index=5}
+- Texas Disaster Information System (TDIS): statewide disaster data platform
+  - [GLO overview](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system)
+  - [IDRT page](https://idrt.tamug.edu/tdis/)
+  - [TDIS portal](https://portal.cloud.tdis.io/)
 - MINT Platform (DARPA World Modelers): model integration and intelligent interfaces
+  - [DARPA World Modelers](https://www.darpa.mil/research/programs/world-modelers)
+- Arctic research programs: navigating national-scale environmental uncertainty
+  - [Navigating the New Arctic (NNA)](https://ceee.colorado.edu/programs/navigating-new-arctic-nna)
+- Geomorphology and flood hazard research lineage
+  - [Paola Passalacqua, 2022 Ralph Alger Bagnold Medal](https://www.egu.eu/awards-medals/ralph-alger-bagnold/2022/paola-passalacqua/)
 
-<details>
-<summary><b>Experience</b></summary>
+## Experience
 
 - 2024 - Present: Research Assistant, Columbia University (Financial Engineering)
 - 2023 - Present: Founder, Summit Geospatial
@@ -58,10 +65,7 @@ Links: [dlewis.ai](https://dlewis.ai) | [LinkedIn](https://www.linkedin.com/in/d
 - 2018 - 2021: Data Scientist and Research Engineer, Texas Advanced Computing Center
 - 2018 - 2020: Co-instructor, University of Texas at Austin
 
-</details>
-
-<details>
-<summary><b>Technical stack</b></summary>
+## Technical stack
 
 Languages: Python, SQL, Bash, TypeScript, C++, Fortran, PL/pgSQL  
 ML: PyTorch, SHAP, variational inference  
@@ -69,19 +73,19 @@ Geospatial: GDAL, GeoPandas, Rasterio, PostGIS
 Infra: CUDA, Docker, HPC batch workflows  
 Visualization: Plotly Dash, web-first mapping
 
-</details>
+## Publications (selected)
 
-<details>
-<summary><b>Publications</b></summary>
+- Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making
+- An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models
+- A Semantic Model Catalog to Support Comparison and Reuse
 
-- Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making  
-  [ACM TIST (entry)](https://knowledgecaptureanddiscovery.github.io/publication/gil-etal-tiis-2021/) :contentReference[oaicite:6]{index=6}
-- An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models  
-  [ACM IUI (DOI)](https://dl.acm.org/doi/abs/10.1145/3308557.3308711) :contentReference[oaicite:7]{index=7}
-- A Semantic Model Catalog to Support Comparison and Reuse  
-  [iEMSs paper (PDF)](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4347&context=iemssconference) :contentReference[oaicite:8]{index=8}
+## Contact
 
-</details>
+Website: https://dlewis.ai  
+Email: danielhardestylewis@gmail.com  
+GitHub: https://github.com/dhardestylewis  
+LinkedIn: https://www.linkedin.com/in/dhardestylewis/  
+Location: New York, NY
 
 
 ## Contact
