@@ -72,7 +72,7 @@ Visualization: Plotly Dash, web-first mapping
 </details>
 
 <details>
-<summary><b>Publications (selected)</b></summary>
+<summary><b>Publications</b></summary>
 
 - Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making  
   [ACM TIST (entry)](https://knowledgecaptureanddiscovery.github.io/publication/gil-etal-tiis-2021/) :contentReference[oaicite:6]{index=6}
