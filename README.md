@@ -53,7 +53,7 @@ Links: [dlewis.ai](https://dlewis.ai) | [LinkedIn](https://www.linkedin.com/in/d
   - [DARPA World Modelers](https://www.darpa.mil/research/programs/world-modelers)
 - Arctic research programs: navigating national-scale environmental uncertainty
   - [Navigating the New Arctic (NNA)](https://ceee.colorado.edu/programs/navigating-new-arctic-nna)
-- Geomorphology and flood hazard research lineage
+- Geomorphology and flood hazard research
   - [Paola Passalacqua, 2022 Ralph Alger Bagnold Medal](https://www.egu.eu/awards-medals/ralph-alger-bagnold/2022/paola-passalacqua/)
 
 ## Experience
@@ -73,7 +73,7 @@ Geospatial: GDAL, GeoPandas, Rasterio, PostGIS
 Infra: CUDA, Docker, HPC batch workflows  
 Visualization: Plotly Dash, web-first mapping
 
-## Publications (selected)
+## Selected Publications
 
 - Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making
 - An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models
