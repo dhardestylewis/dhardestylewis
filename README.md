@@ -26,64 +26,94 @@ I design and implement intelligent decision support systems to support computati
 
 # Daniel Hardesty Lewis
 
-Data Scientist and Researcher
+**Staff ML Engineer — production training, inference, evaluation, reliability**
 
-I build interpretable machine learning systems and scalable geospatial infrastructure for high-stakes decision support.
+I build and operate interpretable machine learning systems and scalable geospatial infrastructure for high-stakes decision support. I specialize in leakage-safe evaluation, distributional robustness, and end-to-end delivery from source data to production web products.
 
-I am a Research Assistant at [Columbia University](https://www.columbia.edu/) working with [Ali Hirsa](https://www.engineering.columbia.edu/faculty-staff/directory/ali-hirsa) on explainable and distributionally robust ML for financial forecasting. Previously, I spent 5+ years at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu/) scaling climate and flood models, including work supporting the $40M [Texas Disaster Information System (TDIS)](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system).
+Links: [dlewis.ai](https://dlewis.ai) · [LinkedIn](https://www.linkedin.com/in/dhardestylewis/) · [Email](mailto:danielhardestylewis@gmail.com) · [GitHub](https://github.com/dhardestylewis)
 
-I founded [Summit Geospatial](https://summitgeospatial.com/) (terrain data for Texas) and co-founded [PoliBOM](https://polibom.com/) (tariff intelligence).
+---
 
-Links: [dlewis.ai](https://dlewis.ai) | [LinkedIn](https://www.linkedin.com/in/dhardestylewis/) | [Email](mailto:danielhardestylewis@gmail.com)
+## What I ship
+
+- **Properlytic** — consumer real-estate pricing and forecasting with uncertainty fan charts and expanding-window, leakage-safe evaluation.  
+- **Summit Geospatial** — high-resolution elevation data products and delivery infrastructure for engineering and hazard workflows.  
+- **PoliBOM** — tariff intelligence and compliance workflows for manufacturers (BOM parsing, retrieval, and policy scenario simulation).  
+- **Texas Disaster Information System (TDIS)** — statewide disaster data platform and modeling workflows supporting inter-agency response and resiliency planning.
+
+---
 
 ## Focus areas
 
-- Interpretable and distributionally robust ML for forecasting and decision support
-- End-to-end geospatial pipelines (source data to web delivery)
-- HPC workflows for climate, terrain, and hydrology workloads
+- **Leakage-safe forecasting systems:** evaluation harnesses, reliability, and model governance for decisions under uncertainty  
+- **Interpretable ML for decision support:** stable, regime-aware attribution and explainability for high-stakes settings  
+- **Geospatial + time-series pipelines:** source data → modeling → APIs → web delivery  
+- **Distributed and HPC workflows:** performance profiling, scalability, and explicit cost–performance tradeoffs
+
+---
 
 ## Selected work
 
-- Properlytic: home price forecasting and interactive mapping
-- Texas Disaster Information System (TDIS): statewide disaster data platform
-  - [GLO overview](https://www.glo.texas.gov/disaster-recovery/planning-studies/texas-disaster-information-system)
-  - [IDRT page](https://idrt.tamug.edu/tdis/)
-  - [TDIS portal](https://portal.cloud.tdis.io/)
-- MINT Platform (DARPA World Modelers): model integration and intelligent interfaces
-  - [DARPA World Modelers](https://www.darpa.mil/research/programs/world-modelers)
-- Arctic research programs: navigating national-scale environmental uncertainty
-  - [Navigating the New Arctic (NNA)](https://ceee.colorado.edu/programs/navigating-new-arctic-nna)
-- Geomorphology and flood hazard research
-  - [Paola Passalacqua, 2022 Ralph Alger Bagnold Medal](https://www.egu.eu/awards-medals/ralph-alger-bagnold/2022/paola-passalacqua/)
+### Properlytic (Co-founder)
+Consumer property pricing and forecasting platform with interactive uncertainty fan charts.
+- Deployed an NYC semi-supervised VAE current-price model using tax and sales records to handle sparsity and noise; achieved **12% holdout error** (vs. **Zillow 8.4%** internal apples-to-apples).
+- Shipped a Houston diffusion-based forecasting system with fan charts; achieved **~8% annualized compounding error** at best-performing horizons, delivered via production web UI.
 
-## Experience
+### Summit Geospatial (Founder)
+High-resolution elevation data and web delivery for engineering and hazard workflows.
+- Engineered a statewide seamless Texas DEM mosaic, resampling **0.5 m** LiDAR sources to **1.2 m** via nearest-neighbor across **70+** elevation datasets.
+- Built the web distribution platform end-to-end (pipeline, tiling, hosting, delivery UX) for planning and engineering use cases.
 
-- 2024 - Present: Research Assistant, Columbia University (Financial Engineering)
-- 2023 - Present: Founder, Summit Geospatial
-- 2024 - Present: Co-founder, PoliBOM
-- 2021 - 2023: Senior Data Scientist and Technical Lead, Texas Advanced Computing Center
-- 2018 - 2021: Data Scientist and Research Engineer, Texas Advanced Computing Center
-- 2018 - 2020: Co-instructor, University of Texas at Austin
+### PoliBOM (Co-founder)
+AI tariff mitigation and trade compliance for manufacturers.
+- Specified an agentic workflow and schema definitions for BOM parsing, retrieval, and tariff simulation using embeddings + search, API serving, and operational data stores.
+- Directed development of a conversational AI interface to simplify trade workflows, retrieval, and proactive compliance alerts.
+
+### Texas Disaster Information System (TDIS) and TACC (Senior Data Scientist & Technical Lead; Data Scientist & Research Engineer)
+State-scale climate, flood, and terrain workflows, including support for the **$40M** TDIS program.
+- Scaled climate and flood models on supercomputers, executing large distributed jobs while managing multi-million-dollar compute budgets and federal partnerships.
+- Developed methods to produce high-resolution flood maps from National Water Model outputs for operational response workflows.
+- Partnered with federal and state agencies on technical scoping, milestones, and delivery pathways.
+
+---
+
+## Research
+
+**Columbia University — Financial Engineering (Research Assistant, Industry-sponsored)**  
+Explainable and distributionally robust ML for forecasting and decision support.
+- Built a multi-asset CVAE latent factor model with Skew-T mixture priors; achieved **85% R²** vs. commercial SaaS (**75%**) and Fama-French (**58%**) on backtested holdout.
+- Developed tractable, regime-aware attribution methods to improve stability and interpretability for deep forecasting models.
+
+**Columbia University — Electrical Engineering (Research Assistant)**  
+- Math benchmarking and finetuning work related to GRPO-style optimization.
+
+---
 
 ## Technical stack
 
-Languages: Python, SQL, Bash, TypeScript, C++, Fortran, PL/pgSQL  
-ML: PyTorch, SHAP, variational inference  
-Geospatial: GDAL, GeoPandas, Rasterio, PostGIS  
-Infra: CUDA, Docker, HPC batch workflows  
-Visualization: Plotly Dash, web-first mapping
+**Languages:** Python, SQL, Bash, TypeScript, C++, Fortran, PL/pgSQL  
+**Modeling:** PyTorch, TensorFlow, scikit-learn, transformers, variational inference, SHAP  
+**LLM apps:** embeddings, RAG, LangChain/LangGraph, DSPy, FAISS  
+**Data:** Pandas, Polars, PyArrow, Parquet, Postgres, PostGIS, Redis, Elasticsearch, Supabase  
+**Infra:** Linux/Unix, Docker, Kubernetes, Ray, Spark, Dask, Airflow, CI/CD, observability  
+**Geospatial:** GDAL, GeoPandas, Rasterio  
+**Acceleration:** CUDA
+
+---
 
 ## Selected Publications
 
-- Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making
-- An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models
-- A Semantic Model Catalog to Support Comparison and Reuse
+- *Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making*
+- *An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models*
+- *A Semantic Model Catalog to Support Comparison and Reuse*
+
+---
 
 ## Contact
 
-Website: https://dlewis.ai  
-Email: danielhardestylewis@gmail.com  
-GitHub: https://github.com/dhardestylewis  
-LinkedIn: https://www.linkedin.com/in/dhardestylewis/  
-Location: New York, NY
+- Website: https://dlewis.ai  
+- Email: danielhardestylewis@gmail.com  
+- GitHub: https://github.com/dhardestylewis  
+- LinkedIn: https://www.linkedin.com/in/dhardestylewis/  
+- Location: New York, NY
 
