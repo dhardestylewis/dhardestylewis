@@ -39,7 +39,7 @@ Links: [dlewis.ai](https://dlewis.ai) · [LinkedIn](https://www.linkedin.com/in/
 - **Properlytic** — consumer real-estate pricing and forecasting with uncertainty fan charts and expanding-window, leakage-safe evaluation.  
 - **Summit Geospatial** — high-resolution elevation data products and delivery infrastructure for engineering and hazard workflows.  
 - **PoliBOM** — tariff intelligence and compliance workflows for manufacturers (BOM parsing, retrieval, and policy scenario simulation).  
-- **Texas Disaster Information System (TDIS)** — statewide disaster data platform and modeling workflows supporting inter-agency response and resiliency planning.
+- **TACC / TDIS support** — state-scale climate, flood, and terrain workflows supporting the $40M Texas Disaster Information System and inter-agency resiliency planning.
 
 ---
 
@@ -69,8 +69,8 @@ AI tariff mitigation and trade compliance for manufacturers.
 - Specified an agentic workflow and schema definitions for BOM parsing, retrieval, and tariff simulation using embeddings + search, API serving, and operational data stores.
 - Directed development of a conversational AI interface to simplify trade workflows, retrieval, and proactive compliance alerts.
 
-### Texas Disaster Information System (TDIS) and TACC (Senior Data Scientist & Technical Lead; Data Scientist & Research Engineer)
-State-scale climate, flood, and terrain workflows, including support for the **$40M** TDIS program.
+### TACC (Senior Data Scientist & Technical Lead; Data Scientist & Research Engineer)
+State-scale climate, flood, and terrain workflows, supporting the **$40M** Texas Disaster Information System (TDIS) program.
 - Scaled climate and flood models on supercomputers, executing large distributed jobs while managing multi-million-dollar compute budgets and federal partnerships.
 - Developed methods to produce high-resolution flood maps from National Water Model outputs for operational response workflows.
 - Partnered with federal and state agencies on technical scoping, milestones, and delivery pathways.
