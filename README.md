@@ -26,7 +26,7 @@ I design and implement intelligent decision support systems to support computati
 
 # Daniel Hardesty Lewis
 
-**Staff ML Engineer — production training, inference, evaluation, reliability**
+**ML Engineer — production training, inference, evaluation, reliability**
 
 I build and operate interpretable machine learning systems and scalable geospatial infrastructure for high-stakes decision support. I specialize in leakage-safe evaluation, distributional robustness, and end-to-end delivery from source data to production web products.
 
