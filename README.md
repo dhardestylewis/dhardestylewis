@@ -36,7 +36,7 @@ Links: [dlewis.ai](https://dlewis.ai) · [LinkedIn](https://www.linkedin.com/in/
 
 ## What I ship
 
-- **Homecastr** — consumer real-estate pricing and forecasting with uncertainty fan charts and expanding-window, leakage-safe evaluation.  
+- **Worldcastr** — consumer real-estate pricing and forecasting with uncertainty fan charts and expanding-window, leakage-safe evaluation.  
 - **Summit Geospatial** — high-resolution elevation data products and delivery infrastructure for engineering and hazard workflows.  
 - **PoliBOM** — tariff intelligence and compliance workflows for manufacturers (BOM parsing, retrieval, and policy scenario simulation).  
 - **TACC / TDIS** — state-scale climate, flood, and terrain workflows supporting the $40M Texas Disaster Information System and inter-agency resiliency planning.
@@ -54,7 +54,7 @@ Links: [dlewis.ai](https://dlewis.ai) · [LinkedIn](https://www.linkedin.com/in/
 
 ## Selected work
 
-### Homecastr (Founder)
+### Worldcastr (Founder)
 Consumer property pricing and forecasting platform with interactive uncertainty fan charts.
 - Deployed an NYC semi-supervised VAE current-price model using tax and sales records to handle sparsity and noise; achieved **12% holdout error** (vs. **Zillow 8.4%** internal apples-to-apples).
 - Shipped a Houston diffusion-based forecasting system with fan charts; achieved **~8% annualized compounding error** at best-performing horizons, delivered via production web UI.
@@ -112,7 +112,7 @@ Explainable and distributionally robust ML for forecasting and decision support.
 ## Contact
 
 - Website: https://dlewis.ai  
-- Email: daniel@homecastr.com  
+- Email: daniel@worldcastr.com  
 - GitHub: https://github.com/dhardestylewis  
 - LinkedIn: https://www.linkedin.com/in/dhardestylewis/  
 - Location: New York, NY
